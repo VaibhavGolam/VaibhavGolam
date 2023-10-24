@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VaibhavGolam/JavaProjects](https://github.com/VaibhavGolam/JavaProjects)
+- 👨‍💻 All of my java projects are available at [https://github.com/VaibhavGolam/JavaProjects](https://github.com/VaibhavGolam/JavaProjects)
 
 - 📫 How to reach me **vgolam009@gmail.com**
 
