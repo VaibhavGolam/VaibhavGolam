@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Golam</h1>
-<h3 align="center">A passionate java developer from Goa, India</h3>
+<h3 align="center">A passionate Software developer from Goa, India</h3>
 
 - 🌱 I’m currently learning **Java**
 
