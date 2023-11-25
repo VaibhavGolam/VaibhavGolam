@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Golam</h1>
 <h3 align="center">A passionate Software developer from Goa, India</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my java projects are available at [https://github.com/VaibhavGolam/JavaProjects](https://github.com/VaibhavGolam/JavaProjects)
 
