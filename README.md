@@ -2,8 +2,10 @@
 <h3 align="center">A passionate Software developer from Goa, India</h3>
 
 - 🌱 I’m currently learning **Flutter**
+  
+- 👨‍💻 All of my flutter projects are available at [https://github.com/VaibhavGolam?tab=repositories](https://github.com/VaibhavGolam?tab=repositories)
 
-- 👨‍💻 All of my java projects are available at [https://github.com/VaibhavGolam/JavaProjects](https://github.com/VaibhavGolam/JavaProjects)
+- 👨‍💻 My java projects are available at [https://github.com/VaibhavGolam/JavaProjects](https://github.com/VaibhavGolam/JavaProjects)
 
 - 📫 How to reach me **vgolam009@gmail.com**
 
