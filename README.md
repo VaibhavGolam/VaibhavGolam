@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VaibhavGolam/JavaProjects](https://github.com/VaibhavGolam/JavaProjects)
+- 👨‍💻 check all of my flutter projects in my repositories [https://github.com/VaibhavGolam?tab=repositories](https://github.com/VaibhavGolam?tab=repositories)
 
 - 📫 How to reach me **vgolam009@gmail.com**
 
